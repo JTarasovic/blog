@@ -5,11 +5,28 @@ theme = "color-your-world"
 languageCode = "en-us"
 publishDir = "docs"
 
+enableEmoji = true
+enableInlineShortcodes = true
+enableGitInfo = true
+
+
 [markup]
 [markup.highlight]
 noClasses = false
 
+
+[menu]
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 1
+
 [params]
+description = "Personal Blog of Jason Tarasovic"
+author = "Jason Tarasovic"
+authorDesc = "Some Dude"
+
+
 [params.style]
 isDark = true
 ignoreSystemSettings = true
@@ -20,7 +37,7 @@ darkAccent = "#225670"
 github        = [ "JTarasovic" ]
 gitlab        = [ "J_Tarasovic" ]
 keybase       = [ "jtarasovic" ]
-linkedin      = [ "j_tarasovic" ]
+linkedin      = [ "jtarasovic" ]
 reddit        = [ "J_Tarasovic" ]
 twitter       = [ "J_Tarasovic", "@j_tarasovic" ]
 
