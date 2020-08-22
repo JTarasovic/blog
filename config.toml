@@ -1,1 +1,27 @@
+baseURL = "https://blog.tarasovic.cloud/"
+title = "Opinions Were Like Kittens"
+
 theme = "color-your-world"
+languageCode = "en-us"
+publishDir = "docs"
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[params]
+[params.style]
+isDark = true
+ignoreSystemSettings = true
+darkAccent = "#225670"
+
+
+[params.social.centralized]
+github        = [ "JTarasovic" ]
+gitlab        = [ "J_Tarasovic" ]
+keybase       = [ "jtarasovic" ]
+linkedin      = [ "j_tarasovic" ]
+reddit        = [ "J_Tarasovic" ]
+twitter       = [ "J_Tarasovic", "@j_tarasovic" ]
+
+[params.social.decentralized]
