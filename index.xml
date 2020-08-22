@@ -1,1 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Opinions Were Like Kittens</title><link>https://blog.tarasovic.cloud/</link><description/><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://blog.tarasovic.cloud/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Opinions Were Like Kittens</title><link>https://blog.tarasovic.cloud/</link><description>Personal Blog of Jason Tarasovic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://blog.tarasovic.cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://blog.tarasovic.cloud/about/</link><pubDate>Sat, 22 Aug 2020 15:46:50 -0500</pubDate><guid>https://blog.tarasovic.cloud/about/</guid><description>I am a software engineer based in the Midwest. I have focused heavily on Ops for the last several years but am interested in security, IAM, operating systems, embedded systems.
+Certified Kubernetes Administrator Certified Kubernetes Application Developer GitHub
+GitLab
+Keybase
+LinkedIn
+Reddit
+@j_tarasovic</description></item></channel></rss>
